@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EEE;
+    font-family: Arial, Thoma,
+}
+.page_head,
+.page_desc {
+    text-align: center;
+    
+}
+.page_head {
+    font-size: 40px;
+    margin: 20px 0;
+}
+.page_desc {
+    font-size: 22px;
+    margin: 20px 0 0;
+}
